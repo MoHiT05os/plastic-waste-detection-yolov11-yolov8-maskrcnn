@@ -34,7 +34,7 @@ configs/
 - Random Seed: 42
 - Image Size: 640 × 640
 - Batch Size: 16
-- Epochs: 50
+- Epochs: 100
 
 ## Dataset
 
